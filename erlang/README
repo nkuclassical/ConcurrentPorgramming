@@ -1,0 +1,2 @@
+After you run c(main) c(watcher) c(sensor) in erlang
+Please run main:start()
