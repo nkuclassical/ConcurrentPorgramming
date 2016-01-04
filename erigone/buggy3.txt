@@ -1,0 +1,3 @@
+Erigone command line for the verification run: erigone.exe -s -lt10000 buggy3.pml
+C:\Users\ebrains\Desktop>erigone.exe -s -lt10000 buggy3.pml
+verification terminated=successfully,

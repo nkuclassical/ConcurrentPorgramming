@@ -1,0 +1,4 @@
+Erigone command line:erigone -s -lt10000 buggy1.pml
+Output:
+C:\Users\ebrains\Desktop>erigone.exe -s -lt10000 buggy1.pml
+verification terminated=assert statement is false,line=27,statement={assert(5<=n&&n<=10)},

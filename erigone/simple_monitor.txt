@@ -1,0 +1,6 @@
+Erigone command line:erigone.exe -s -lt10000 simple_monitor.pml
+Erigone verifcation output:
+C:\Users\ebrains\Desktop>erigone.exe -s -lt10000 simple_monitor.pml
+verification terminated=successfully,
+
+Successfully means all carts pass through the intersecction in order
